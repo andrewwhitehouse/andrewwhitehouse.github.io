@@ -12,4 +12,4 @@ What is this blog for? It's for me to share some of the things I've learned. Wit
 
 We also need to ask *Who is it for?* It's for me, to practise writing. And for you, if you find something here that resonates. I hope you'll get in touch if it does, so we can continue the conversation.
 
-My intention is to show up regularly, with generosity, and share my thoughts and perspectives.
+My intention is to turn up regularly, with generosity, and [show my work](https://austinkleon.com/show-your-work/).
