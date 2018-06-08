@@ -1,5 +1,3 @@
-# What Is It For?
-
 Welcome! Thanks for taking the time to read this. 
 
 I've started my first post with a question because I've learned recently the value of asking good questions. I'll be writing more about that in future posts.

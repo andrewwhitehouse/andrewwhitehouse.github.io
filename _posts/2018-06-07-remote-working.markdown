@@ -1,4 +1,3 @@
-# The Stress of Commuting, and Remote Work
 Commuting to work is very unpleasant at the moment.
 
 This morning I arrived at the station to meet another day of make-it-up-as-you-go-along timetables from Thameslink, since they introduced a new timetable on May 20th. There have been [cancellations every day](https://www.bbc.co.uk/news/uk-england-44395131) while they adjust to the new timetable and they don't have [enough drivers](https://www.bbc.co.uk/news/uk-england-44388190) in the right places. (There has been a driver shortage since 2015.)
