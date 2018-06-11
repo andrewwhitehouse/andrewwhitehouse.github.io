@@ -8,7 +8,7 @@ I noticed this:
 
 > Recalling that his grandfather, a rabbi, never passed a beggar without giving a donation, he said: “I asked him once what if the man was a scrounger or a drug addict? My grandfather said: 'Let that always be on his conscience, never yours.’ ”
 
-When I ran the London Marathon in 2010 and 2011 the first time I ran for [Sentebale](http://sentebale.org/who-we-are/), having visited Lesotho in 2009 and seen the problems the country has with AIDS and HIV. In the process of raising sponsorship I had an exchange with a colleague who declined to sponsor me; he felt that not enough would go to the people it's designed to help. This wasn't aimed specifically aimed at Sentebale ([2016/17 report accounts](http://3nci582v3ztm44c7lq3ruz2z.wpengine.netdna-cdn.com/wp-content/uploads/2018/06/LR-2016_17-SB-Report-and-Accounts_complete.pdf).
+When I ran the London Marathon in 2010 and 2011 the first time I ran for [Sentebale](http://sentebale.org/who-we-are/), having visited Lesotho in 2009 and seen the problems the country has with AIDS and HIV. In the process of raising sponsorship I had an exchange with a colleague who declined to sponsor me; he felt that not enough would go to the people it's designed to help. This wasn't aimed specifically aimed at Sentebale though. Here's their [2016/17 report accounts](http://3nci582v3ztm44c7lq3ruz2z.wpengine.netdna-cdn.com/wp-content/uploads/2018/06/LR-2016_17-SB-Report-and-Accounts_complete.pdf).
 
 A friend asked me why I chose to support Sentebale when there were many causes closer to home. Fair point. The second year I split the money between Sentebale and a local charity that supported young homeless adults.
 
