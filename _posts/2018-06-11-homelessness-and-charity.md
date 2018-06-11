@@ -20,7 +20,7 @@ Some people get into difficulty through circumstances beyond their control or la
 
 If you're not comfortable giving money to someone on the street what else can you do?
 
-Here are [some](https://www.bbc.co.uk/news/uk-england-38221721) [ideas](https://www.telegraph.co.uk/news/uknews/11620159/Whats-the-best-way-to-help-the-homeless.html). These sites are UK-based but the principles apply more broadly, and you can [use Google](http://lmgtfy.com/?q=how+can+i+help+the+homeless) for more local results.)
+Here are [some](https://www.bbc.co.uk/news/uk-england-38221721) [ideas](https://www.telegraph.co.uk/news/uknews/11620159/Whats-the-best-way-to-help-the-homeless.html). These sites are UK-based but the principles apply more broadly, and you can [use Google](http://lmgtfy.com/?q=how+can+i+help+the+homeless) for more local results.
 
 Here are some people already using technology to make a difference, via [ft.com](https://www.ft.com/content/3610563e-3cb8-11e8-b9f9-de94fa33a81e), 
 
