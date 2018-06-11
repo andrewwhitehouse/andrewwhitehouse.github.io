@@ -14,7 +14,7 @@ A friend asked me why I chose to support Sentebale when there were many causes c
 
 We tend to support causes that are [in front of us](https://seths.blog/2014/12/cutting-through-singers-paradox/).
 
-Should we give money *directly* to the person who may need it? How much? Is it money they need? And assuming we don't have unlimited funds, how do we prioritise? Do we have enough information to make an informed decision?  (It's [not](https://www.independent.co.uk/news/uk/home-news/should-we-give-homeless-money-a8124951.html) [straightforward](https://www.theguardian.com/commentisfree/2018/jan/17/should-give-homeless-people-money-gloucester-council-ad).
+Should we give money *directly* to the person who may need it? How much? Is it money they need? And assuming we don't have unlimited funds, how do we prioritise? Do we have enough information to make an informed decision?  It's [not](https://www.independent.co.uk/news/uk/home-news/should-we-give-homeless-money-a8124951.html) [straightforward](https://www.theguardian.com/commentisfree/2018/jan/17/should-give-homeless-people-money-gloucester-council-ad).
 
 Some people get into difficulty through circumstances beyond their control or lack of education. Perhaps they can [no longer afford their rising rent](https://www.theguardian.com/education/2017/may/23/homeless-teachers-ashamed-housing-crisis-professionals). When I was younger I used to believe that you make your own luck. Returning to philosophy, the Stoics remind us that there are things we can control and things we can't. (Read the [Daily Stoic](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736/) for an introduction.)
 
