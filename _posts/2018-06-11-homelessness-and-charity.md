@@ -1,6 +1,6 @@
 Working in London I often walk past people sleeping rough. Sometimes I give them money, and sometimes I don't. I've been wondering why that is, and whether giving money is the best thing to do.
 
-When I worked at Chordiant (now [Pega](https://www.pega.com/) for a while I was up in Glasgow. Flights were from City Airport and the cab driver used to cut through Cable Street. I remember reading an obituary of [Bill Fishman](https://www.telegraph.co.uk/news/obituaries/11480782/Professor-Bill-Fishman-East-End-historian-obituary.html) who took part in the Battle of Cable Street. 
+When I worked at Chordiant (now [Pega](https://www.pega.com/)) for a while I was up in Glasgow. Flights were from City Airport and the cab driver used to cut through Cable Street. I remember reading an obituary of [Bill Fishman](https://www.telegraph.co.uk/news/obituaries/11480782/Professor-Bill-Fishman-East-End-historian-obituary.html) who took part in the Battle of Cable Street. 
 
 Obituaries give us a story of a person's life. They also remind us of our own mortality and prompt us to consider the story we're writing with our own lives. The Stoic philosopher Seneca reminds us that [Life is Long, If You Know How To Use It](https://www.brainpickings.org/2014/09/01/seneca-on-the-shortness-of-life/).
 
