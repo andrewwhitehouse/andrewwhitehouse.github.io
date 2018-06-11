@@ -22,12 +22,12 @@ If you're not comfortable giving money to someone on the street what else can yo
 
 Here are [some](https://www.bbc.co.uk/news/uk-england-38221721) [ideas](https://www.telegraph.co.uk/news/uknews/11620159/Whats-the-best-way-to-help-the-homeless.html). These sites are UK-based but the principles apply more broadly, and you can [use Google](http://lmgtfy.com/?q=how+can+i+help+the+homeless) for more local results.
 
-Here are some people already using technology to make a difference, via [ft.com](https://www.ft.com/content/3610563e-3cb8-11e8-b9f9-de94fa33a81e): 
+Here are some people already using technology to make a difference:
 
 * [Next Meal](https://nextmeal.co.uk/) - list the nearest charities that provide food and support for homeless people 
 * [Street Link](https://www.streetlink.org.uk/#) by [Homeless Link](https://www.homeless.org.uk/) - connect people sleeping rough with the local services that can support them. [Metro](https://metro.co.uk/2018/02/26/see-homeless-person-sleeping-rough-snow-7342879/)
 * [Beam](https://wearebeam.org/) - Help a homeless person to train up and get into work
 * [Startups in the U.S. experimenting with ways to donate using your phone](https://www.bbc.co.uk/news/av/technology-44415767/donating-to-homeless-people-using-your-phonep)
-* [Austrlia](https://askizzy.org.au/)
+* [In Australia](https://askizzy.org.au/)
 
 Do contact me if you're involved with helping the homeless, and have insights as to what does work.
