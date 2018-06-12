@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's Design for Everyone"
 ---
-This evening I went to a very enjoyable talk by Robin Christopherson of [AbilityNet](https://www.abilitynet.org.uk/).
+This evening I went to a very enjoyable talk by [Robin Christopherson](https://www.abilitynet.org.uk/robinchristopherson) of [AbilityNet](https://www.abilitynet.org.uk/). 
 
 Robin uses his camera more than most users. For text reading and object recognition.
 
