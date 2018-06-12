@@ -18,9 +18,7 @@ It’s good practice to follow Accessibility Guidelines for site usability. 90% 
 
 Please don’t think of it as bolt-on. Something that’s bolted on can always be dropped off.
 
-Which companies are doing accessibility well? Other questionable practices aside [my addition], Facebook have been working hard at accessibility and have auto-generated alternative text for user content. Other social media sites should do this too.
-
-Also the [BBC](http://bbc.co.uk/) and [Government Digital Services](https://www.gov.uk/).
+Which companies are doing accessibility well? Facebook have been working hard at accessibility and have auto-generated alternative text for user content. Other social media sites should do this too. Also the [BBC](http://bbc.co.uk/) and [Government Digital Services](https://www.gov.uk/).
 
 It's easy to check how good a site's accessibility is with the [Wave](https://wave.webaim.org/) tool. [EHRC](https://www.equalityhumanrights.com/en) could levy fines on big corporations. Let's get a shift towards inclusive design.
 
