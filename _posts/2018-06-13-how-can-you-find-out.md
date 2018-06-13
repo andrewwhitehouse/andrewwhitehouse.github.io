@@ -2,7 +2,7 @@
 layout: post
 title:  "When You're Stuck On \"I Don't Know\""
 ---
-Last January I took part in the [altMBA](https://altmba.com/) programme which is for high-performing individuals who want to level up and lead. It expected it to be a compressed business course but it was much more than that.
+Last January I took part in the [altMBA](https://altmba.com/) programme which is for _high-performing individuals who want to level up and lead_. I expected it to be a compressed business course but it was much more than that.
 
 One of the things I learned was the power of asking good questions.
 
