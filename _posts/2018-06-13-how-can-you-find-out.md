@@ -20,4 +20,4 @@ It's a really useful way to help us become unstuck. Framing a situation with the
 
 The next time a friend or colleague or family member says "I don't know" give them a generous nudge and ask "How can you find out?".
 
-* Thank you Emily!
+<sup>\*</sup> Thank you Emily!
