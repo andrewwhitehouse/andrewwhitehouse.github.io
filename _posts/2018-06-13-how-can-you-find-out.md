@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Can You Find Out?"
+title:  "When You're Stuck On \"I Don't Know\""
 ---
 Last January I took part in the [altMBA](https://altmba.com/) programme which is for high-performing individuals who want to level up and lead. It expected it to be a compressed business course but it was much more than that.
 
