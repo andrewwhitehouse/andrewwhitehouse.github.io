@@ -14,6 +14,8 @@ If they can’t use the app properly, your users are temporarily disabled. That�
 
 If you're carrying a coffee and using a phone one-handed you’re temporarily motor-impaired. 
 
+If you're under pressure to complete a task in the 90 seconds between a conversation and your next meeting, you have an insight into the usability issues face by someone who's learning impaired.
+
 It’s good practice to follow Accessibility Guidelines for site usability. 90% of websites today don’t even meet Single-A. The minimum legal requirement for [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) is Double-A.
 
 Please don’t think of it as bolt-on. Something that’s bolted on can always be dropped off.
