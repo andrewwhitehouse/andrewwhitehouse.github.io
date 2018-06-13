@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Although Andrew appears serious and wise on the outside, inside his head is a younger version of himself looking for opportunities to play.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Can be quite stubborn. But only on things that matter. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Ex-rugby player, one-time bungee jumper and two-time marathon runner. Now with a mild disregard for heights.
 
+He believes that most things are achievable if you focus and put in enough effort. 
 
-[jekyll-organization]: https://github.com/jekyll
+He gets joy from creating things, laughing, words appropriately combined, and helping others to learn and grow. He also loves building useful things.
