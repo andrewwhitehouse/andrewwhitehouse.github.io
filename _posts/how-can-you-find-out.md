@@ -14,6 +14,8 @@ Her reply was "How can you find out?".
 
 That threw me initially. And then I started to think about ways I could reduce that uncertainty: Could I try an experiment? Or ask someone who might know more?
 
-It's a really useful way to help us become unstuck. What can we try to help us move forward? What information do we lack? Framing a situation with the right question often provides focus on what to do next.
+You may not get an answer saying "do this". But you will be closer to the point where you've satisfied yourself that it's time to use your best judgement and act.
+
+It's a really useful way to help us become unstuck. Framing a situation with the right question often provides focus on what to do next.
 
 The next time a friend or colleague or family member says "I don't know" give them a generous nudge and ask "How can you find out?".
