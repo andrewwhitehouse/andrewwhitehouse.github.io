@@ -22,7 +22,7 @@ These are beneficial changes I've noticed so far:
 * Reading for its own sake is replaced by reading in order to share something, which benefits others
 * Writing helps me to see more clearly what I'm thinking and the patterns over time
 * Readers notice things that you hadn't and broaden your perspective
-* Our work in a company is often constrained to following an approach that someone else has prescribed; writing allows us to speak in our own voice
+* Freelance work in someone else's company is often constrained in some way; writing allows us to use our own voice
 * With limited time we make conscious choices to prioritise what we need to get the work done
 
 If you write regularly I'd love to hear your experience on what's worked, what you've found challenging, and the benefits you've gained.
