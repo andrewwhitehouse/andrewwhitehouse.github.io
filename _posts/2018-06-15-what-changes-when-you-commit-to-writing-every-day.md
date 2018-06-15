@@ -17,7 +17,7 @@ These are beneficial changes I've noticed so far:
 
 * The motivation to ship a post leads to thinking about the [process](https://sivers.org/7) of writing and how to improve writing style. 
 * It's uncomfortable not knowing what you're going to write tomorrow; but doing it anyway
-* A practice of recording ideas and journaling develops. And creating space the quiet for this to happen.
+* A practice of recording ideas and journaling develops. And creating a space for it to happen.
 * Half-baked ideas need to be fleshed out which leads to deeper investigation and more focus
 * Reading for its own sake is replaced by reading in order to share something, which benefits others
 * Writing helps me to see more clearly what I'm thinking and the patterns over time
