@@ -1,5 +1,3 @@
-# What Changes When You Commit To Writing Every Day
-
 I wrote yesterday about my first attempt at blogging, which taught me that I need a theme. Prompted by [Scott's book](https://www.amazon.com/Stoic-Creative-Struggling-Creatives-Passion-ebook/dp/B07464C6CP) I [identified my values](http://www.viacharacter.org/www/) and then my [Body of Work](https://www.amazon.com/Body-Work-Finding-Thread-Together-ebook/dp/B00DMCV5RK), by answering these questions:
 
 * What do you want to create? (books, blog posts, code, classes, software)
