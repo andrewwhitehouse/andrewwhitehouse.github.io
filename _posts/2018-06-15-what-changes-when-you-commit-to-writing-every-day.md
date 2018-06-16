@@ -25,6 +25,16 @@ These are beneficial changes I've noticed so far:
 * Freelance work in someone else's company is often constrained in some way; writing allows us to use our own voice
 * With limited time we make conscious choices to prioritise what we need to get the work done
 
+**Update**
+
+I've been reflecting on this post and have some more:
+
+* It's useful to revisit an earlier post and add to it after reflection; the change in perspective brings new insight by itself
+* Change comes incrementally over time; focusing on a limited number of things at one time allows us to add depth as new insight comes
+* There is tension when we don't receive feedback; it's helpful to recognise that and be comfortable with it
+* You don't need permission to start writing
+* Everyone has a book in them
+
 If you write regularly I'd love to hear your experience on what's worked, what you've found challenging, and the benefits you've gained.
 
 
