@@ -16,7 +16,9 @@ And your brother and sisters, mum and dad. Your friends. We all miss you.
 
 We don't talk much about what happened. It's painful. I think it will be easier the more we do it.
 
-Our junior school headmaster suggested that we try applying to Christ's Hospital for [my eldest brother]. Hundreds of letters from Mum later we were all studying there. Christ's Hospital was set up by Edward VI in London to care for [fatherless and poor children](https://www.christs-hospital.org.uk/about-ch/history-of-the-uniform/). I enjoyed the freedom, the education was mostly good, and it gave me the chance to try different sports and develop musically. It also made me independent, and even now I'm inclined to figure stuff out by myself although I'm getting better at asking for help. 
+Our junior school headmaster suggested that we try applying to Christ's Hospital for [my eldest brother]. Hundreds of letters from Mum later we were all studying there. I was sponsored by a Governess, Mrs. Barnes who was successful in her job, but her parents' relationship wasn't straightforward. She died from lung cancer soon after I finished university. I regret not getting to know her better. With a number of others from my year group I'm now supporting a girl at CH who's finishing her second year.
+
+Christ's Hospital was set up by Edward VI in London to care for [fatherless and poor children](https://www.christs-hospital.org.uk/about-ch/history-of-the-uniform/). I enjoyed the freedom, the education was mostly good, and it gave me the chance to try different sports and develop musically. It also made me independent, and even now I'm inclined to figure stuff out by myself although I'm getting better at asking for help. 
 
 The school had a computer room and I wrote a programme when I was 16 which won some money for the school in a competition. I've worked with computers ever since. Generally I enjoy it ... solving problems. For me it's really about what you can do with it, and the positive impact of the things we create.
 
