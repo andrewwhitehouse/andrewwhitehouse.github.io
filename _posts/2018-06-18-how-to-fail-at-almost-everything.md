@@ -1,5 +1,5 @@
 ---
-title:  "Book Notes: How to Fail At Almost Everything and Still Wing Big, by Scott Adams"
+title:  "Book Notes: How to Fail At Almost Everything and Still Win Big, by Scott Adams"
 ---
 
 ![How To Fail At Almost Everything And Still Win Big, by Scott Adams]({{site.url}}/assets/how-to-fail.png)
