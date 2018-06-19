@@ -6,6 +6,8 @@ title:  "Book Notes: How to Fail At Almost Everything and Still Win Big, by Scot
 
 I first read [this book](https://www.amazon.com/dp/1591846919) in 2016. The advice that resonates particularly with me is on systems vs goals, and the importance of optimising for personal energy. 
 
+When I ran the London Marathon in 2010 and 2011 I trained for more than [16 weeks](https://www.virginmoneylondonmarathon.com/en-gb/trainingplans/) and was much fitter by the end of it. As an ex-rugby scrum player, long distance running isn't my thing but I could have maintained the fitness with some other regular exercise. I'm enjoying pilates now, and it's easier on my back.
+
 Staying physically and mentally healthy comes from sustaining good habits. Here are [some suggestions](https://www.independent.co.uk/life-style/health-and-families/ways-to-improve-mental-health-daily-habits-walk-tall-exercise-a8050651.html). And you need to exercise self care, looking after yourself so that you can do your best work and help others.
 
 **Selected Notes**
@@ -18,7 +20,7 @@ Staying physically and mentally healthy comes from sustaining good habits. Here 
 * Luck can be managed, sort of
 * Conquer shyness by being a phony
 * Fitness is the lever that moves the world
-* Simpicity transforms ordinary into amazing
+* Simplicity transforms ordinary into amazing
 
 In our messy flawed lives the nearest we can get to truth is consistency. Consistency is the bedrock of the scientific method.
 
@@ -71,7 +73,7 @@ The most important form of selfishness involves spending time on your fitness, e
 
 We're raised to believe that giving of ourselves is noble and good. All our lives we are told it's better to give than to receive. We're programmed for unselfish behaviour by society, our parents, and even our genes to some extent. The problem is that our obsession with generousity causes people to think in the short term. We skip exercise to spend an extra hour helping at home. We buy fast food to help a co-worker with a problem. At every turn we cheat our own future to appear generous today.
 
-Scott is giving us permission to take care of myself first.
+Scott is giving us permission to take care of ourselves first.
 
 **Generous people take care of their own needs first. In fact, doing so is a moral necessity. The world needs us at our best.**
 
