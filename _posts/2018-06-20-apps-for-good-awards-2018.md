@@ -26,7 +26,7 @@ I also spoke to one of the Fellows, who was a previous award winner. He is now j
 
 If you work in the tech industry, you can share your experience by [becoming an expert](https://www.appsforgood.org/public/get-involved/become-an-expert). 
 
-If you're a head or ICT teacher, the team at Apps for Good are happy to [provide guidance](https://www.appsforgood.org/public/about-us#contact-us) on delivering the course. And it really is free, for non-fee paying schools.
+If you're a head or ICT teacher, the team at Apps for Good are happy to [provide guidance](https://www.appsforgood.org/public/about-us#contact-us) on delivering the course. And it really is free for non-fee paying UK schools. It is available to schools outside the UK too.
 
 And if you're a parent, please mention it to your school. Your children will gain so much from it.
 
