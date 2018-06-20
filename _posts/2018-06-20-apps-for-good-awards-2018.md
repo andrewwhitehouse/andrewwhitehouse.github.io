@@ -8,7 +8,7 @@ What I love about this programme is the way it helps to build the children's con
 
 I ran out of time to speak to all the teams but did see these:
 
-* [Rewardo](https://www.appsforgood.org/public/awards/2018/rewardo) - from an amazing group of year 5 students with excellent pitching skills. Rewardo allows you to earn outdoor family activities; I liked that the reward was itself focused on benefiting the family. When they won the Digital Explorer's awards thre were tears of joy and hugs from their teacher.
+* [Rewardo](https://www.appsforgood.org/public/awards/2018/rewardo) - from an amazing group of year 5 students with excellent pitching skills. Rewardo allows you to earn outdoor family activities; I liked that the reward was itself focused on benefiting the family. When they won the Digital Explorer's awards there were tears of joy and hugs from their teacher.
 
 ![Rewardo Team]({{site.url}}/assets/rewardo-team.png)
 
