@@ -1,6 +1,6 @@
 # Apps for Good Awards 2018
 
-Tonight I went to the Apps for Good awards. [Apps for Good](https://www.appsforgood.org/) is a free programme which involves [courses](https://www.appsforgood.org/public/teach-apps-for-good) that schools can include in their curriculum covering app development, Internet of Things and, next year, machine learning.
+Tonight I went to the Apps for Good awards. [Apps for Good](https://www.appsforgood.org/) is a free programme which provides [courses](https://www.appsforgood.org/public/teach-apps-for-good) that schools can include in their curriculum covering app development, Internet of Things and, next year, machine learning. These programme also has a network of experts who can share their expertise with the children through Skype calls, and help develop the ideas.
 
 ![Apps for Good joint MD's]({{site.url}}/assets/apps-for-good-joint-mds.png)
 
