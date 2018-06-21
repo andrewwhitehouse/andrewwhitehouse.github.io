@@ -14,7 +14,7 @@ His example is for an Economist subscription, with the following options:
 
 Would you choose the middle option?
 
-In the video below you'll see that having the dummy option in the middle  dramatically increased the number of people who picked print & web.
+In the video below (at 12:30) you'll see that having the dummy option in the middle  dramatically increased the number of people who picked print & web.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
