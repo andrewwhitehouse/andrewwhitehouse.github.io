@@ -24,7 +24,7 @@ I ran out of time to speak to all the teams but did see these:
 
 * [Light Bike](https://www.appsforgood.org/public/awards/2018/light-bike) was the winner in the Emerging Tech category for an enhanced bike to help you stay safe and visible while cycling. The attached LEDs turn red when the bike it braking.
 
-2016 finalists [Donate it]([https://www.appsforgood.org/public/awards/2016/donate-it) won this year's Legacy Award for their continuing work on their app, which allows you to share your unwanted items with charities so they can discover what's available in their area.
+2016 finalists [Donate it](https://www.appsforgood.org/public/awards/2016/donate-it) won this year's Legacy Award for their continuing work on their app, which allows you to share your unwanted items with charities so they can discover what's available in their area.
 
 I chatted with one of the Fellows, who was a previous award winner and is now involved with judging the awards. His excitement at still being involved was palpable. He's applying to university, and has a very strong story to add to his personal statement.
 
