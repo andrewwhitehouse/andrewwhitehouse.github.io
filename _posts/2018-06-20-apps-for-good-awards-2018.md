@@ -6,6 +6,8 @@ Tonight I went to the Apps for Good awards. [Apps for Good](https://www.appsforg
 
 What I love about this programme is the way it helps to build the children's confidence, and to develop and pitch their ideas. It was a busy evening and the children worked really hard explaining their ideas repeatedly to interested attendees.
 
+The awards were presented by senior figures in the tech industry, more than one of whom predicted that these children are leaders of the future, and I'm inclined to agree.
+
 I ran out of time to speak to all the teams but did see these:
 
 * [Rewardo](https://www.appsforgood.org/public/awards/2018/rewardo) - from an amazing group of year 5 students with excellent pitching skills. Rewardo allows you to earn outdoor family activities; I liked that the reward was itself focused on benefiting the family. When they won the Digital Explorer's awards there were tears of joy and hugs from their teachers.
@@ -22,7 +24,9 @@ I ran out of time to speak to all the teams but did see these:
 
 * [Light Bike](https://www.appsforgood.org/public/awards/2018/light-bike) was the winner in the Emerging Tech category for an enhanced bike to help you stay safe and visible while cycling. The attached LEDs turn red when the bike it braking.
 
-I also spoke to one of the Fellows, who was a previous award winner. He is now judging and his excitement at still being involved was palpable. Now he's applying to university, and has a very strong story to add to his personal statement.
+2016 finalists [Donate it]([https://www.appsforgood.org/public/awards/2016/donate-it) won this year's Legacy Award for their continuing work on their app, which allows you to share your unwanted items with charities so they can discover what's available in their area.
+
+I chatted with one of the Fellows, who was a previous award winner and is now involved with judging the awards. His excitement at still being involved was palpable. He's applying to university, and has a very strong story to add to his personal statement.
 
 If you work in the tech industry, you can share your experience by [becoming an expert](https://www.appsforgood.org/public/get-involved/become-an-expert). 
 
