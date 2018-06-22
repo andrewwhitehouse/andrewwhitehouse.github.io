@@ -6,7 +6,7 @@ As I sat inside I noticed somebody wearing headphones go up to the counter. When
 
 This stuck me as odd. That he chose deafness instead of having a simple conversation with the server.
 
-I've seen something similar in Marks and Spencer at lunch time. Customers were queueing up with their headphones on, and the staff member directed them to tills did so by holding up the right number of fingers.
+I've seen something similar in Marks and Spencer at lunch time. Customers were queueing up with their headphones on, and the staff member had to direct them to tills by holding up the right number of fingers.
 
 On the London Underground I was barged out of the way by someone leaving the carriage. It could have been an aggressive gesture until I saw the blank look and headphones.
 
