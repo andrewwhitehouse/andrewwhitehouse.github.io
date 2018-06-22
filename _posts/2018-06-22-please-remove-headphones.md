@@ -1,10 +1,10 @@
 On the way to work the other day I stopped off to pick up something to eat.
 
-As I sat inside I noticed somebody wearing headphones go up to the counter. When it was his turn to be served he kept his headphones, on preventing verbal communication.
+As I sat inside I noticed somebody wearing headphones go up to the counter. When it was his turn to be served he kept them over his ears, preventing verbal communication.
 
 ![Deaf and mute]({{site.url}}/assets/headphones.png)
 
-This stuck me as odd. That he chose to render himself deaf instead of having a simple conversation with the server.
+This stuck me as odd. That he chose deafness instead of having a simple conversation with the server.
 
 I've seen something similar in Marks and Spencer at lunch time. Customers were queueing up with their headphones on, and the staff member directed them to tills did so by holding up the right number of fingers.
 
