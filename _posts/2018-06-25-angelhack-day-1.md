@@ -49,10 +49,10 @@ Using Indonesia as an example. The population is around 260 million people. With
 Our basic journey was:
 
 1. Parent texts relief agency
-* Agency chatbot requests information, such as child's name, village, date of birth and other helpful information, with a photo if possible
-* Photo is received and saved
-* Details are matched against any already saved
-* Chatbot responds to parent with next steps
+2. Agency chatbot requests information, such as child's name, village, date of birth and other helpful information, with a photo if possible
+3. Photo is received and saved
+4. Details are matched against any already saved
+5. Chatbot responds to parent with next steps
 
 I had some trial account limitations on IBM Cloud, and we had technical issues with the visual recognition service; my API key didn't work with the latest release of the API. However the IBM team on site helped to resolve that.
 
