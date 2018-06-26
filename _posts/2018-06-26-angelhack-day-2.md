@@ -10,7 +10,7 @@ At 1pm we watched England's glorious five goals against Panama in the first half
 
 The pitching session started at 3pm.
 
-![Pitches about to start]({{site.url}}/assets/day2-pitches.png})
+![Pitches about to start]({{site.url}}/assets/day2-pitches.png)
 
 Some of my favourite applications:
 
