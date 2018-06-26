@@ -38,3 +38,4 @@ I've decided I need to spend more time understanding what problems blockchain te
 
 I was very fortunate to find some excellent team members to work with. We had a good balance of skills, and collaborated well. I would do it again.
 
+**Previous**: [Day 1](/2018/06/25/angelhack-day-1.html)

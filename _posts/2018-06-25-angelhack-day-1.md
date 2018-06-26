@@ -65,3 +65,5 @@ While Justin and I worked on the tech away from the hubbub in the main call, Viv
 We got to the evening not having a completely coherent soltuion to the problem. Should we incorporate Blockchain somehow? Or AWS Fargate? We had the IBM Chatbot set up, and Watson image recognition. Could we add to that?
 
 Recognising I needed to sleep, I left Rise around 11pm. Justin carried on. I had around 6 hours sleep, and was up at 6.30 on Sunday.
+
+**Next**: [Day 2](/2018/06/26/angelhack-day-2.html)

@@ -27,7 +27,7 @@ As Randy Pausch says, in his **Last Lecture**
 
 Also watch: [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0).
 
-Attending the altMBA I learned the value of asking good questions. Instead of giving answers our coaches, Emily and Max, encouraged us to find the answers for ourselves. When given a [framing question](2018-06-13-how-can-you-find-out.html), we are the best person to decide what's right for us.
+Attending the altMBA I learned the value of asking good questions. Instead of giving answers our coaches, Emily and Max, encouraged us to find the answers for ourselves. When given a [framing question](/2018/06/13/how-can-you-find-out.html), we are the best person to decide what's right for us.
 
 Relevant anecdote: The last assignment was to produce a video. I'm duty bound not to reveal details of the prompt. However I had an idea of what I wanted to say, and practised it multiple times. The more I practised the less spontaneous it became. So I asked Max for feedback. He replied "Do you think it's good enough?". I said I wasn't sure, and wanted to know what he thought. His reply was: "I look forward to seeing it when you decide it's ready".
 
