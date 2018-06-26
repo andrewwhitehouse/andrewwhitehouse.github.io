@@ -1,6 +1,6 @@
 # Angelhack Day 1
 
-On Saturday and Sunday I attended my first ever hackathon. I've been wondering how I can find other people who are interested in building things to solve problems. Maybe at a hackathon? So I started tracking hackathons a couple of weeks ago and signed up for Angelhack just the day before, once I knew it would fit with family plans.
+On Saturday and Sunday I attended my first ever hackathon. I've been wondering how I can find other people who are interested in building things to solve problems. Maybe at a hackathon? So I started tracking hackathons a couple of weeks ago and signed up for [Angelhack](https://angelhack.com/) just the day before, once I knew it would fit with family plans.
 
 What distinguishes Angelhack from some other hackathons is that you have to demo a working product. Slide decks are not allowed as an alternative. So it's not just about the idea. You actually have to build something that addresses the problem.
 
