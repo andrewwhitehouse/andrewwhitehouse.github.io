@@ -1,6 +1,4 @@
-# Notes from Blockchain Summit London, Day 1
-
-After Angelhack at the weekend I decided to spend more time understanding Blockchain, and coincidentally it's Blockchain Summit London this week. 
+After [Angelhack]({{ site.baseurl }}{% link _posts/2018-06-26-angelhack-day-2.md %}) at the weekend I decided to spend more time understanding Blockchain, and coincidentally it's Blockchain Summit London this week. 
 
 These are my notes, focusing on potential uses and some of the challenges. 
 
