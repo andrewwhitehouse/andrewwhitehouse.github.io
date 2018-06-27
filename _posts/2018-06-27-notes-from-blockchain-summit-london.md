@@ -1,8 +1,10 @@
-# Notes from Blockchain Summit London
+# Notes from Blockchain Summit London, Day 1
 
 After Angelhack at the weekend I decided to spend more time understanding Blockchain, and coincidentally it's Blockchain Summit London this week. 
 
-These are my notes, focusing on potential uses and some of the challenges. It's a longer post, but covers the whole of the first day, and the morning of the second.
+These are my notes, focusing on potential uses and some of the challenges. 
+
+TLDR: You need Distributed Ledger Technology or blockchain when multiple people are involved and they don’t trust each other. Otherwise you could use a database.
 
 The first talk I attended was an enjoyable session from [Valeriy](https://twitter.com/vdlife) and Tatiana from [MyWish](https://twitter.com/mywishplatform) which is a platform for creating smart contracts without programming skills. 
 
@@ -81,8 +83,31 @@ Certification: Heathrow doesn't trust me, but I need to prove I'm a pilot.
 
 [iatacoin](https://www.lykke.com/city/blog/world_financial_symposium) is a project testing the waters of how they can accelerate movement of money from agents to airlines.
 
+**Next session, Chris Sherrington from Centrica**: Currently data in the energy industry tends to be chunky, with quarterly systems. The industry resolves itself to half hour detail. Distributed generation assets are set to increase by 60% over the next 5 years. There will be 75Bn devices connected in the next 5 years. It's an interesting market when you start paying people to use your product.
 
+The [Energy Web Foundation](https://energyweb.org/) is an open-source, scalable blockchain platform specifically designed for the energy sector’s regulatory, operational, and market needs.
 
+**Understanding the Power of DLTs to Better Server Customers**
+
+Oracle is launching blockchain as a service soon, based on Hyperledger.
+
+Currently there can be 10 players between adversiter and consumer. [Mindshare](https://cointelegraph.com/news/blockchain-technology-the-future-for-media-interview-with-mindshare-cso) is looking to make this chain more transparent.
+
+[Blockpass](https://www.blockpass.org/) looks promising as a technology to self-sovereign identify. 
+
+**Blockchain for Digital Rights Management** was, for me, the best panel session of the day. [Sammy Andrews](https://twitter.com/sammyandrews), [Rob Learney](https://twitter.com/robertlearney) and [Marcus O'Dair](https://twitter.com/marcusodair) discussed with Alex Milne Turner current challenges in the music industry and how blockchain might help.
+
+There are challenges with secondary ticketing. Blockchain could help, or eliminate secondary ticketing.
+
+When artists need to be paid, the data isn't always present, or correct. Even then, it might take a year for artists to be paid. Collecting organisations won't like the increased efficiency and disintermediation that blockchain brings.
+
+Organising song rights is complicated. In addition to a distributed rights database, you can have machine readble rules on how those songs can be used. Some verions of Blowing in the Wind aren't attributed to Bob Dylan.
+
+Middle men are already being disintermediated. Previously you needed a distributor. Now artists are doing deals directly with Spotity. 
+
+The Big 3 record companies won't have a choice to adopt blockchain. Services are already getting lawsuits from misattribution.
+
+Rob: a blockchained music solution will arrive. Sammy is excited that there are so many potential appications.
 
 
 
