@@ -12,13 +12,13 @@ Good software engineering teams build software with a focus on creating value fo
 
 Minimising the cost of change means that there must be repeatable (automated) processes to build and test the software. Manual testing by humans is really slow and difficult to replicate.
 
-When consulting/offshoring companies become involved in software delivery there is tension to create profit while not overcharging the customer. In my experience this can lead to a short-term focus. And the practices that lead to longer term consistency and maintainability receive lower priority. Over time this leads to lower software quality. If the customer paid the consulting party to build and run the production system, that might encourage a greater focus on maintainability.
+When consulting/off-shoring companies become involved in software delivery there is tension to create profit while not overcharging the customer. In my experience this can lead to a short-term focus. And the practices that lead to longer term consistency and maintainability receive lower priority. Over time this leads to lower software quality. If the customer paid the consulting party to build and run the production system, that might encourage a greater focus on maintainability.
 
-There are companies who build in the engineering from the start, creating an asset that will be maintanable in the long term. I've worked with a couple of them. It takes clear priorities and experience to minimise entropy as the software changes over time.
+There are companies who build in the engineering from the start, creating an asset that will be maintainable in the long term. I've worked with a couple of them. It takes clear priorities and experience to minimise entropy as the software changes over time.
 
 Good developers treat what they do as a [craft](https://en.wikipedia.org/wiki/Software_craftsmanship). 
 
-At Chordiant, where I worked in the early 2000s, I was occasionally seconded from the professional services team the pre-sales team. The goal of the pre-sales team is to build demoable software; so they can show something concrete to a potential client and illustrate how it solves their businesses problem. There is usually limited time to build the demo, and so the result is a constrained set of functionality which may work for only a couple of customers and while the UI looks like a full product only certain features have been enabled.
+At Chordiant, where I worked in the early 2000s, I was occasionally seconded from the professional services team the pre-sales team. The goal of the pre-sales team is to build demo-able software; so they can show something concrete to a potential client and illustrate how it solves their businesses problem. There is usually limited time to build the demo, and so the result is a constrained set of functionality which may work for only a couple of customers and while the UI looks like a full product only certain features have been enabled.
 
 **Hacking**
 
