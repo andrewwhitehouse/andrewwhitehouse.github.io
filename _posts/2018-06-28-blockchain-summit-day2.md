@@ -22,8 +22,6 @@ Blockchain Congestion on the core layer boils down to a queueing problem.
 
 Bitcoin typically needs 6 confirmations.
 
-![Consensus Mechanisms]({{site.url}}/assets/consensus-mechanisms.png)
-
 On Ethereum every node executes every single transaction. A lot of very clever people are looking at ways of changing that.
 
 Bitcoin/Ethereum consensus protocols are use-case specific. This is different on other platforms or use cases.
