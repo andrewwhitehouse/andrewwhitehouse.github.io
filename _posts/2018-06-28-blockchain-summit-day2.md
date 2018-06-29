@@ -18,10 +18,6 @@ The blockchain engineering session had a fun warm up act from Elliot Callender a
 - If you had to choose only one consensus mechanism would you rather use PoW forever (without access to anything else) or PoS?
 - Would you rather all ICO's go through a rigorous filtering system before being public or have a free market where anyone can raise an ICO?
 
-Performance engineering is not just about how your using the core layer. It’s about how your users are integrating with it.
-
-![Blockchain Core Layer]({{site.url}}/assets/blockchain-core-layer.png)
-
 Blockchain Congestion on the core layer boils down to a queueing problem.
 
 Bitcoin typically needs 6 confirmations.
@@ -46,7 +42,7 @@ Bigger blocks is like buses on the highway. Fitting more passengers in a bus eas
 
 Performance gains for bigger blocks are pretty significant right off the bat.
 
-They got a gain of 600% on Fabric by increasing the block size.
+They achieved a gain of 600% on Fabric by increasing the block size.
 
 This results on a lot more compute across the network. This might be fine on  a permission network. But it could have an impact on Ethereum network since every node calculates the transaction.
 
@@ -58,6 +54,8 @@ Nielsen’s law - the bandwidth that the average user has grows a lot more slowl
 
 Do some work off-chain, and do some coordination on-chain. A lot of the heavy compute that’s done doesn’t need to be done on-chain.
 
+![Going Off Chain]({{site.url}}/assets/off-chain.png)
+
 We are going back to a level of centralisation to achieve the scale. This will be the case over the next 2-3 years. Then we’ll come up with another strategy.
 
 **How Can Governments and Cities Benefit from Blockchain Technology**
@@ -66,19 +64,21 @@ The developer session finished early, so I joined in with this session that had 
 
 The main speakers were Jonas Svensson from UNOPS, Amit Varma from Citibank, and Sami Benyakoub from Journal du Coin.
 
-Jonas stated that the viable projects for the UN are UN priorities donations in crypto ... sending the money to where it's needed, and identity projects.
+Jonas stated that the viable projects for the UN currently are making donations in crypto ... sending the money to where it's needed, and identity projects.
 
-Amit posted that blockchain allows tracking movement across borders. It could lead to new definitions of national boundaries. It's about managing people within boundaries.
+Refugees are currently given pre-paid cards to buy essentials. When they cross from one country to another and the currency changes, the cards are tossed. We could do better with blockchain.  
+
+Amit posited that blockchain allows tracking movement across borders. It could lead to new definitions of national boundaries. It's about managing people within boundaries.
 
 Also legal issues .. how can we manage social and antisocial behaviour?
 
 Health ... in some countries health is private and limited. How can we help the many?
 
-Could overnments collaborate to create a [51% attack](https://www.coindesk.com/blockchains-feared-51-attack-now-becoming-regular/)?
+Could governments collaborate to create a [51% attack](https://www.coindesk.com/blockchains-feared-51-attack-now-becoming-regular/)?
 
 Voting is a practical application for governments.
 
-Jonas mentioned that refugees are currently given pre-paid cards to buy essentials. When they cross from one country to another and the currency changes, the cards are tossed. We could do better with blockchain.  Refugees all have phones.
+
 
 
 
