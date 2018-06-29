@@ -76,8 +76,7 @@ Health ... in some countries health is private and limited. How can we help the 
 
 Could governments collaborate to create a [51% attack](https://www.coindesk.com/blockchains-feared-51-attack-now-becoming-regular/)?
 
-Voting is a practical application for governments.
-
+Blockchain-based voting is a [practical application](https://cryptovest.com/news/bitfury-proposes-blockchain-based-election-system-for-ukraine/) for governments.
 
 
 
