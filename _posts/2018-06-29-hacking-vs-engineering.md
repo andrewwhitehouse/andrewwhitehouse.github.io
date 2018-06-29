@@ -1,5 +1,5 @@
 ---
-title:  "Engineering vs Hacking"
+title:  "Hacking vs Engineering"
 ---
 
 After [Angelhack](https://andrewwhitehouse.com/2018/06/26/angelhack-day-2.html) I've been reflecting on the different technical skills needed in a hackathon, versus those I use in my day job as a software engineer. So I'm thinking about hacking (meaning experimenting, and combining things) versus engineering.
