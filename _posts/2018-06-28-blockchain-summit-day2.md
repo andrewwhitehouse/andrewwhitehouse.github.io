@@ -9,14 +9,11 @@ I arrived in time to see the tail end of a talk on Blockchain [Redaction](https:
 
 ![Blockchain Redaction]({{site.url}}/assets/blockchain-redaction.png)
 
-The blockchain engineering session had a fun warm up act from Elliot Callender and colleague from [Nodeunlock](https://www.nodeunlock.io/). 
-
-Questions to think about ... 
+The blockchain engineering session had a fun warm up act from Elliot Callender and colleague from [Nodeunlock](https://www.nodeunlock.io/) with audience participation on the following questions:
 
 - Would you rather solve governance or interoperability?
 - Would you rather develop on a public chain or a private/consortium chain?
 - If you have to choose one over the other, would you rather choose security or usability?
-- Who is Satoshi?
 - When thinking about regulation ... would you rather have lots of government involvement, or very little?
 - If you had to choose only one consensus mechanism would you rather use PoW forever (without access to anything else) or PoS?
 - Would you rather all ICO's go through a rigorous filtering system before being public or have a free market where anyone can raise an ICO?
