@@ -46,7 +46,7 @@ This results on a lot more compute across the network. This might be fine on  a 
 
 Hyperledger uses CouchDB. You need to load balance it.
 
-Ethereum is looking at sharing. Every full Ethereum node has to process every transaction. Sharding creates partitions so they don’t have to do that.
+Ethereum is looking at sharding. Every full Ethereum node has to process every transaction. Sharding creates partitions so they don’t have to do that.
 
 Nielsen’s law - the bandwidth that the average user has grows a lot more slowly then their processing power.
 
