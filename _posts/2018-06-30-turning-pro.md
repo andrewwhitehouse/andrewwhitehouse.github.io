@@ -25,7 +25,7 @@ I've long thought about my freelance work as my main work, and everything else a
 
 I think it's about having the humility of an amateur to recognise how little we know, while adopting the habits of a professional.
 
-## Here are my notes from Turning Pro
+## Here are the sections I highlighted 
 
 _[What ails us] is that we are living our lives as amateurs._
 
