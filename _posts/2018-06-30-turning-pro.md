@@ -2,7 +2,7 @@
 title:  "Combating Resistance by Turning Pro"
 ---
 
-## Book Notes on Turning Pro, by Steven Pressfield."
+## Book Notes on Turning Pro, by Steven Pressfield.
 
 [![Turning Pro]({{site.url}//assets/turning-pro.png))](https://www.amazon.com/dp/1936891034/)
 
@@ -14,16 +14,16 @@ Resistance is fueled by fear.
 
 Seth Godin refers to it as your [lizard brain](https://seths.blog/2010/01/quieting-the-lizard-brain/).
 
-It's the fear that prevents you from doing your work. That other project that you've been thinking about for a while but you're not sure if anyone will care, and you're a perfectionist so you don't want to show work to others that you know could be better.
+It's the fear that prevents you from doing your work. That other project that you've been thinking about for a while but you're not sure if anyone will care, or perhaps you're a perfectionist and you don't want to show work to others that you know could be better.
 
 The way to combat Resistance, says Pressfield, is by Turning Pro. 
 
 Turning Pro is a mindset and a set of practices to help you do the work you feel you should be doing.
 
-I've long thought about my freelance work as my main work, and everything else as side projects. Reading Turning Pro, I realised that I need to pick which of those projects I wanted to do first and then approach it as a "pro". Austin Kleon says we're all amateurs and quotes Charlie Chaplin:
+I've long thought about my freelance work as my main work, and everything else as side projects. Reading Turning Pro, I realised that I need to pick which of those projects I want to do first and then approach it as a "pro". Austin Kleon [says](https://austinkleon.com/show-your-work/) we're all amateurs and quotes Charlie Chaplin:
 > That's all any of us are: amateurs. We don't live long enough to be anything else.
 
-I think it's about having the humility of an amateur to recognise how little we know, while adopting the habits of a professional to [Show Your Work](https://austinkleon.com/show-your-work/).
+I think it's about having the humility of an amateur to recognise how little we know, while adopting the habits of a professional.
 
 ## Here are my notes from Turning Pro
 
