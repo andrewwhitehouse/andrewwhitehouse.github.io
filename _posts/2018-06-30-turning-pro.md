@@ -6,7 +6,7 @@ title:  "Combating Resistance by Turning Pro"
 
 [![Turning Pro]({{site.url}}/assets/turning-pro.png)](https://www.amazon.com/dp/1936891034/)
 
-The War of Art, which precedes Turning Pro, was one of the selected texts for the altMBA. In it, Steven Pressfield talks about Resistance.
+The War of Art, which precedes Turning Pro, was one of the selected texts for the [altMBA](https://altmba.com/). In it, Steven Pressfield talks about Resistance.
 
 > Resistance cannot be seen, touched, heard or smelled. But it can be felt. We experience it as an energy field radiating from a work-in-potential. It's a repelling force. It's negative. Its aim is to shove us away, distract us, prevent us from doing our work.
 
