@@ -4,7 +4,7 @@ title:  "Combating Resistance by Turning Pro"
 
 ## Book Notes on Turning Pro, by Steven Pressfield.
 
-[![Turning Pro]({{site.url}}//assets/turning-pro.png)](https://www.amazon.com/dp/1936891034/)
+[![Turning Pro]({{site.url}}/assets/turning-pro.png)](https://www.amazon.com/dp/1936891034/)
 
 The War of Art, which precedes Turning Pro, was one of the selected texts for the altMBA. In it, Steven Pressfield talks about Resistance.
 
