@@ -2,7 +2,7 @@
 title:  "Learning Ethereum, and other things"
 ---
 
-It's London Fintech Week from 6th to 13th July, and there's a blockchain hackathon next weekend. So I'm brushing up on my Ethereum skills with an Udemy [course](https://www.udemy.com/ethereum-blockchain-game-development/) on building a game with Ethereum. 
+It's London Fintech Week from 6th to 13th July, and there's a blockchain hackathon next weekend. So I'm brushing up on my Ethereum skills with an Udemy course on building a game with Ethereum. 
 
 I've done a workshop on Solidity before, with the Blockchain connector, so this is a refresher course. 
 
