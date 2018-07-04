@@ -28,4 +28,6 @@ Dr. Rosalind Watts, Clinical Psychologist at Imperial College London and co-host
 
 David Badcock, acting CEO of [drugscience](http://www.drugscience.org.uk/).
 
+One of the speakers mentioned [The Loop](https://wearetheloop.org/we-provide/) in the context of legalisation to promote safety; The Loop provide drug testing at festivals and clubs. 
+
 You can find out more about psilocybin on the Psychadelic Society's [campaign page](https://psychedelicsociety.org.uk/petitions/psychedelics-for-mental-health).  
