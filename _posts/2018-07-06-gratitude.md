@@ -1,5 +1,5 @@
 ---
-title:  "Focus and Gratitude"
+title:  "Gratitude"
 ---
 
 One of the challenges I'm recognising through writing is that I'm able to focus only a limited number of things at once if I'm going to give them more than a superficial treatment. 
