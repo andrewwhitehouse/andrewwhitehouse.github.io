@@ -38,7 +38,7 @@ _Even if today was your last day on earth— if you knew in advance that it was 
 
 Gratitude also boosts serotonin and improves sleep.
 
-It sounds contrived, but it does make a difference. Try keeping a gratitude journal. 
+It sounds contrived, but it does make a difference. Start keeping a gratitude journal. 
 
 _Take a few minutes every day to write down three things you're grateful for. To make it a better habit, try doing it at the same time every day. If you can't think of three things, just write one. If you can't think of even one thing, just write "I'm grateful for the food I ate today" or "I'm grateful for the clothes I'm wearing." Even if your day is 90 percent what you don't want, you can still be grateful for the other 10 percent._
 
