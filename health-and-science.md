@@ -1,6 +1,5 @@
 ---
 title:  "Health and Science"
-permalink: /health-and-science/
 ---
 
 **2015**
