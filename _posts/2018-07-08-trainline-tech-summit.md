@@ -1,5 +1,5 @@
 ---
-title:  "The Trainline Tech Summit
+title:  "The Trainline Tech Summit"
 ---
 
 Friday was the Trainline Tech Summit where those of us working in the engineering team got together to share ideas and learn from one another.
