@@ -32,17 +32,15 @@ Salim bin Ali Jabar was Faisal's brother-in-law. He made a name for himself prea
 
 This picture is from a hard drive that Salim gave to Cori, and which he said he was happy for her to share.
 
-President Obama authorised [signature strikes](https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html?hp&_r=0&pagewanted=all), which determine the target based on patterns of behaviour. 
+President Obama approved not only _personality_ strikes aimed at named, high-value terrorists, but also [_signature_ strikes]((https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html?hp&_r=0&pagewanted=all)) that targeted training camps and suspicious compounds in areas controlled by militants. Those ordering these strikes do not always know who they are killing.
 
 ![Michael Hayden]({{site.url}}/assets/michael-hayden.png)
 
 Michael Hayden, former director of the NSA stated on record that "we kill people based on metadata".
 
-Data isn't perfect. But that's what modern warfare looks like these days. 
-
 In 2012 the NSA used machine learning to find couriers ... people who transmit messages. The number one target was an [Al Jazeera journalist](https://www.theguardian.com/media/greenslade/2015/may/11/nsa-labelled-al-jazeera-journalist-as-suspected-terrorist) ... if he's any good at his job, he's going to be speaking with militants.
 
-In a later review of drone strikes in Syria, CIA briefers explained to Trump that they had waited so that wives and children could move out of the way. Trump's response was to shout and berate them with "[why did you wait](https://www.independent.co.uk/news/world/americas/donald-trump-cia-drone-strike-generals-war-isis-iraq-syria-afghanistan-middle-east-a8291306.html)?".
+In a later review of drone strikes in Syria, CIA briefers explained to Trump that they had waited so that wives and children could move out of the way. Trump's response was to shout and berate them: "[why did you wait](https://www.independent.co.uk/news/world/americas/donald-trump-cia-drone-strike-generals-war-isis-iraq-syria-afghanistan-middle-east-a8291306.html)?".
 
 The focus on killer robots skips over the problem we already have today.
 
