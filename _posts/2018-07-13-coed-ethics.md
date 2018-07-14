@@ -1,4 +1,8 @@
-Yesterday I attended the [Coed:Ethics](https://www.coedethics.org/) conference, organised by [Ann Currie](https://twitter.com/anne_e_currie?lang=en) and her team. This was the first conference of its kind about ethics.
+---
+title:  "Coed:Ethics Conference, Part 1"
+---
+
+On 13th July I attended the [Coed:Ethics](https://www.coedethics.org/) conference, organised by [Ann Currie](https://twitter.com/anne_e_currie?lang=en) and her team. This was the first conference of its kind about ethics.
 
 Ann posed these questions to those of us who write software for a living:
 
