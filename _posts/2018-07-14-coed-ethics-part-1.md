@@ -22,11 +22,11 @@ I'm going to cover the first talk here, which involves the most egregious use of
 
 [Cori](https://twitter.com/cori_crider) is a human rights lawyer, which means she flies to odd places around the world and talk to people about what happened to them. Some of the people she's spoken to have lost loved ones and community friends because of algorithms. 
 
-In 2012 Faisal bin Ali Jaber’s brother in law and nephew were killed, along with 3 others, in a drone strike.
+Cori told us the story of Faisal bin Ali Jaber. In 2012 Faisal’s brother-in-law and nephew were killed, along with 3 others, in a drone strike.
 
 ![Faisal bin Ali Jaber]({{site.url}}/assets/faisal-bin-ali-jaber.png)
 
-Salim bin Ali Jabar was Faisal's brother-in-law. He made a name for himself preaching against extremism and Al Qaida. Salem tried to steer young people away from militancy. This [article](https://www.independent.co.uk/news/world/americas/family-of-us-drone-stike-victims-files-lawsuit-demanding-president-obama-apologise-for-killings-10305690.html) elaborates.
+Salim bin Ali Jabar was Faisal's brother-in-law. He made a name for himself preaching against extremism and Al Qaida. Salem tried to steer young people away from militancy. This [article](https://www.independent.co.uk/news/world/americas/family-of-us-drone-stike-victims-files-lawsuit-demanding-president-obama-apologise-for-killings-10305690.html) elaborates. 
 
 ![Yemen Drone Strike 2012]({{site.url}}/assets/yemen-drone-strike-2012.png)
 
