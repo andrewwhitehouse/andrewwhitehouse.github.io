@@ -26,11 +26,11 @@ Cori told us the story of Faisal bin Ali Jaber. In 2012 Faisal’s brother-in-la
 
 ![Faisal bin Ali Jaber]({{site.url}}/assets/faisal-bin-ali-jaber.png)
 
-Salim bin Ali Jabar was Faisal's brother-in-law. He made a name for himself preaching against extremism and Al Qaida. Salem tried to steer young people away from militancy. This [article](https://www.independent.co.uk/news/world/americas/family-of-us-drone-stike-victims-files-lawsuit-demanding-president-obama-apologise-for-killings-10305690.html) elaborates. 
+Salem bin Ali Jabar was Faisal's brother-in-law. He made a name for himself preaching against extremism and Al Qaida. Salem tried to steer young people away from militancy. This [article](https://www.independent.co.uk/news/world/americas/family-of-us-drone-stike-victims-files-lawsuit-demanding-president-obama-apologise-for-killings-10305690.html) elaborates. Salem and Waleed, the village's police officer, were likely killed because of some people they'd met.
 
 ![Yemen Drone Strike 2012]({{site.url}}/assets/yemen-drone-strike-2012.png)
 
-This picture is from a hard drive that Salim gave to Cori, and which he said he was happy for her to share.
+This picture is from a hard drive that Salem gave to Cori, and which he said he was happy for her to share.
 
 President Obama approved not only _personality_ strikes aimed at named, high-value terrorists, but also [_signature_ strikes]((https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html?hp&_r=0&pagewanted=all)) that targeted training camps and suspicious compounds in areas controlled by militants. Those ordering these strikes do not always know who they are killing.
 
