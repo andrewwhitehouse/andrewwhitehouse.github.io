@@ -30,7 +30,7 @@ Salem bin Ali Jabar was Faisal's brother-in-law. He made a name for himself prea
 
 ![Yemen Drone Strike 2012]({{site.url}}/assets/yemen-drone-strike-2012.png)
 
-This picture is from a hard drive that Salem gave to Cori, and which he said he was happy for her to share.
+This picture is from a hard drive that Faisal gave to Cori, and which he said he was happy for her to share.
 
 President Obama approved not only _personality_ strikes aimed at named, high-value terrorists, but also [_signature_ strikes]((https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html?hp&_r=0&pagewanted=all)) that targeted training camps and suspicious compounds in areas controlled by militants. Those ordering these strikes do not always know who they are killing.
 
