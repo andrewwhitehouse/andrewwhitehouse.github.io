@@ -187,6 +187,8 @@ Additionally, power comes from us techies.
 
 In June 2018, Baroness Buscombe stated that the behaviour of AI and ML systems will be [covered by existing Health and Safety legislation](https://www.parliament.uk/business/publications/written-questions-answers-statements/written-question/Lords/2018-05-23/HL8200/).
 
+For further reading, look at the _Resources_ and _Press_ sections on the [Coed:Ethics home page](https://www.coedethics.org/).
+
 
 
 
