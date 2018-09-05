@@ -14,13 +14,13 @@ To recap, Ann posed these questions to those of us who write software for a livi
 * What might get in my way?
 * And how might I get over that?
 
-I wrote about Cori Crider's talk previously [InfoQ link](https://www.infoq.com/presentations/big-data-kills).
+I wrote about Cori Crider's talk previously [[InfoQ](https://www.infoq.com/presentations/big-data-kills)].
 
 [Caitlin McDonald](https://twitter.com/cmcd_phd) talked about being a **Data Citizen** and the [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas) that can be injected into the work that we do. Government Digital Services has also released a [Data Science Ethical Framework](https://gds.blog.gov.uk/2017/11/27/updating-the-data-science-ethical-framework/).
 
-Cathy O'Neill's book [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) talks about the impact of algorithms that on modern life, which lack transparency.
+Caitlin referenced Cathy O'Neill's book [Weapons of Math Destruction](https://weaponsofmathdestructionbook.com/) which talks about the impact of algorithms that on modern life, which lack transparency.
 
-Caitlin draws parallels between how citizens interact with the law, and how data citizens interact with data science. _How can we as data citizens push for more effective and fair data science, which impacts us? A first step might be insisting on the same level of transparency for ethical data practices in data science as there are in law.
+Caitlin draws parallels between how citizens interact with the law, and how data citizens interact with data science. _How can we as data citizens push for more effective and fair data science, which impacts us?_ A first step might be insisting on the same level of transparency for ethical data practices in data science as there are in law.
 
 You have to [treat data like people](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399), because most metadata is about people.
 
@@ -28,7 +28,7 @@ Caitlin's talk is [available on InfoQ](https://www.infoq.com/presentations/big-d
 
 **Data Science in Action**: Emma Prest and Clare Kiching talked about [Data Kind UK's](https://gds.blog.gov.uk/2017/11/27/updating-the-data-science-ethical-framework/) work. Data Kind is a charity that does pro bono data science work for good.
 
-What happens when you start off with the best of intentions?
+What can happen when you start off with the best of intentions?
 
 An app to track potholes can lead to potholes being fixed in richer areas only because residents have smartphones. The Samaritans' Radar app was launched with the intention of helping users who were posting tweets that suggested suicidal thoughts; it was [suspended](https://www.theguardian.com/society/2014/nov/07/samaritans-radar-app-suicide-watch-privacy-twitter-users) following privacy concerns.
 
@@ -42,7 +42,7 @@ When starting a project:
 
 4. Project intent matters. But also consider the unexpected consequences.
 
-[InfoQ link](https://www.infoq.com/presentations/ethics-data-science) for Emma and Clare's talk.
+[[InfoQ link](https://www.infoq.com/presentations/ethics-data-science)] for Emma and Clare's talk.
 
 [Andrea Dobson](https://twitter.com/andrea_kock?lang=en)'s topic was **Ethics: A psychological perspective**. 
 
@@ -72,13 +72,13 @@ How can we use limited resources to help others most effectively? How can charit
 
 The UK's National Institute of Clinical Excellence uses a unit of measurement called the QALY - the "quality-adjusted life year". The NHS is prepared to spend [£20,000 per QALY](https://www.bbc.co.uk/news/health-28983924).
 
-So how do you maximise the effect of your personal donations? (Look at [Giving What We Can](https://www.givingwhatwecan.org/) and [GiveWell](https://www.givewell.org/).)
-
-Malaria is no longer the leading killer of people in Afria.
+Malaria is no longer the leading killer of people in Afria due to mosquito nets.
 
 The most effective actions are not always the most intuitive.
 
 [No Lean Season](https://www.givewell.org/charities/no-lean-season) provides low interest loans to rural workers in Bangladesh so they can buy a bus ticket, travel to Dhaka and work there as a rickshaw driver.
+
+So how do you maximise the effect of your personal donations? (Look at [Giving What We Can](https://www.givingwhatwecan.org/) and [GiveWell](https://www.givewell.org/).)
 
 Prioritise good actions at scale.
 
@@ -94,7 +94,7 @@ Responsibility means:
 
 It's getting harder to tell design and software developmnt apart.
 
-Richard Pope: "[Software is politics](https://www.fastcompany.com/3066631/software-is-politics) now". Because software is power.
+Richard Pope: _[Software is politics](https://www.fastcompany.com/3066631/software-is-politics) now_. Because software is power.
 
 Today so much power in society lies with designing and building software.
 
@@ -151,7 +151,7 @@ Because it talks to so many people he has to keep it child friendly. It's design
 
 Supervised learning is very time-consuming. But unsupervised learning can produce [poor results](https://www.npr.org/2016/03/27/472067221/internet-trolls-turn-a-computer-into-a-nazi). 
 
-Mitsuku's does have attackers. They try to corrupt it but becasue of the supervised learning method the haven't succeeded.
+Mitsuku's does have attackers. They try to corrupt it but because of the supervised learning method the haven't succeeded so far.
 
 A weak response from the chatbot encourages a bullying-victim interaction. So find a middle ground. He does this by issuing a warning system. you get 5 strikes and then you're banned (IP address) for 24 hours.
 
@@ -171,7 +171,11 @@ Links:
 * [Survey on Chatbot Design Techniques](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf)
 
 
-In summing up, Ann reflected how how we can build psychological safety into our workplaces. Facebook would like us to believe that its decisions are deliberate, but they probably aren't. What do you measure? How can you allow for unpredictable outcomes? And be deliberate about the ethical choices ou make.
+In summing up, Ann reflected how how we can build psychological safety into our workplaces. 
+
+Facebook would like us to believe that its decisions are deliberate, but they probably aren't. 
+
+What do you measure? How can you allow for unpredictable outcomes? And be deliberate about the ethical choices ou make.
 
 There are three aspects to policing ethics in tech:
 
