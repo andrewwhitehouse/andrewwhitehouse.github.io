@@ -24,7 +24,7 @@ This was my first Data Dive, and I was there to understand how the DataKind proc
 
 **Asking The Right Questions**
 
-I recently finished reading Seth Godin's new book, This is Marketing (which is a different kind of marketing to what you may be used to, based on trust and empathy), and it struck me while listening to the stories of those in need how important it is that we're clear on what is the change we seek to make (for those we seek to serve). Any product or service we create, whether for-profit or not-for-profit, needs to be based on really understanding the needs of the user at a deep level.
+I recently finished reading Seth Godin's new book, This is Marketing (which is a different kind of marketing, based on trust and empathy), and it struck me while listening to the stories of those in need how important it is that we're clear on what is the change we seek to make (for those we seek to serve). Any product or service we create, whether for-profit or not-for-profit, needs to be based on really understanding the needs of the user at a deep level.
 
 For the DataDive, the charities had a number of questions prepared to focus the analysis of the Data Scientist, and the teams working through these until the evening on Saturday, continuing on Sunday morning.
 
